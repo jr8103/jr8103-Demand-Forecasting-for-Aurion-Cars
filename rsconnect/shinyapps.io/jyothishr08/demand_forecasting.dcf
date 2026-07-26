@@ -1,0 +1,13 @@
+name: demand_forecasting
+title:
+username: jyothishr08
+account: jyothishr08
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17500313
+bundleId: 12270910
+url: https://jyothishr08.shinyapps.io/demand_forecasting/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: trial.R
